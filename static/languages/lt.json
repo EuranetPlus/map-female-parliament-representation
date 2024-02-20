@@ -1,12 +1,12 @@
 {
-  "heading": "Ar moterims yra gerai atstovaujama 27 ES šalių nacionaliniuose parlamentuose?",
-  "subheading": "2022 m. liepos mėn. moterys visoje ES užėmė 32,7 % visų vietų nacionaliniuose parlamentuose. Tuo tarpu pasaulio vidurkis siekė 26,4 proc.",
+  "heading": "Ar moterims yra gerai atstovaujama Europos Sąjungos nacionaliniuose parlamentuose?",
+  "subheading": "2022 m. liepos mėn. moterys užėmė 32,7 % visų vietų nacionaliniuose parlamentuose visoje ES, o 39,3 % EP narių buvo moterys.",
   "legend1": "Nėra duomenų",
   "tooltip1": "parlamentarų",
   "textSourceDescription": "Šaltinis",
   "textSource": "Tarpparlamentinė sąjunga",
   "textNoteDescription": "Pastaba",
-  "textNote": "Faktinė Europos Parlamento narių moterų dalis – 39,3 proc.",
+  "textNote": "Pasaulio vidurkis buvo 26,4 proc.",
   "textDataAccess": "Pasiekite duomenis",
   "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#map",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"

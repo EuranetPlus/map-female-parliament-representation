@@ -1,12 +1,12 @@
 {
-  "heading": "Jsou ženy dobře zastoupeny v národních parlamentech v zemích EU27?",
-  "subheading": "V červenci 2022 zastávaly ženy 32,7 % všech křesel v národních parlamentech v celé EU. Mezitím byl světový průměr 26,4 %.",
+  "heading": "Jsou ženy dobře zastoupeny v národních parlamentech Evropské unie?",
+  "subheading": "V červenci 2022 zastávaly ženy 32,7 % všech křesel v národních parlamentech v celé EU, zatímco 39,3 % poslanců Evropského parlamentu byly ženy.",
   "legend1": "Nejsou k dispozici žádné údaje",
   "tooltip1": "poslanců",
   "textSourceDescription": "Zdroj",
   "textSource": "Meziparlamentní unie",
   "textNoteDescription": "Poznámka",
-  "textNote": "Skutečný podíl poslankyň EP 39,3 %",
+  "textNote": "Světový průměr byl 26,4 %",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#map",
   "textCountryClick": "Klikněte pro více informací"

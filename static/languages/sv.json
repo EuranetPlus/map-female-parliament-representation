@@ -1,12 +1,12 @@
 {
-  "heading": "Är kvinnor väl representerade i de nationella parlamenten i EU27-länderna?",
-  "subheading": "I juli 2022 hade kvinnor 32,7 % av alla platser i nationella parlament i hela EU. Samtidigt var världsgenomsnittet 26,4%.",
+  "heading": "Är kvinnor väl representerade i Europeiska unionens nationella parlament?",
+  "subheading": "I juli 2022 hade kvinnor 32,7 % av alla platser i nationella parlament i EU, medan 39,3 % av parlamentsledamöterna var kvinnor",
   "legend1": "Ingen data tillgänglig",
   "tooltip1": "av riksdagsledamöter",
   "textSourceDescription": "Källa",
   "textSource": "Interparlamentariska unionen",
   "textNoteDescription": "Notera",
-  "textNote": "Faktisk andel kvinnliga parlamentsledamöter 39,3 %",
+  "textNote": "A Världsgenomsnittet var 26,4 %",
   "textDataAccess": "Få åtkomst till data",
   "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#map",
   "textCountryClick": "Klicka för mer info"

@@ -1,12 +1,12 @@
 {
-  "heading": "Jesu li žene dobro zastupljene u nacionalnim parlamentima u zemljama EU27?",
-  "subheading": "U srpnju 2022. žene su imale 32,7% svih mjesta u nacionalnim parlamentima diljem EU-a. U međuvremenu, svjetski prosjek je bio 26,4%.",
+  "heading": "Jesu li žene dobro zastupljene u nacionalnim parlamentima Europske unije?",
+  "subheading": "U srpnju 2022. žene su imale 32,7 % svih mjesta u nacionalnim parlamentima diljem EU-a, dok su 39,3 % zastupnika u Europskom parlamentu bile žene",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "zastupnika",
   "textSourceDescription": "Izvor",
   "textSource": "Interparlamentarna unija",
   "textNoteDescription": "Bilješka",
-  "textNote": "Stvarni udio zastupnica u Europskom parlamentu 39,3%",
+  "textNote": "Svjetski prosjek bio je 26,4%",
   "textDataAccess": "Pristupite podacima",
   "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#map",
   "textCountryClick": "Kliknite za više informacija"

@@ -1,12 +1,12 @@
 {
-  "heading": "As mulheres estão bem representadas nos parlamentos nacionais dos países da UE27?",
-  "subheading": "Em julho de 2022, as mulheres detinham 32,7% de todos os assentos nos parlamentos nacionais em toda a UE. Enquanto isso, a média mundial foi de 26,4%.",
+  "heading": "As mulheres estão bem representadas nos parlamentos nacionais da União Europeia?",
+  "subheading": "Em julho de 2022, as mulheres detinham 32,7% de todos os assentos nos parlamentos nacionais da UE, enquanto 39,3% dos deputados ao Parlamento Europeu eram mulheres",
   "legend1": "Não há dados disponíveis",
   "tooltip1": "dos deputados",
   "textSourceDescription": "Fonte",
   "textSource": "União Interparlamentar",
   "textNoteDescription": "Observação",
-  "textNote": "Percentagem real de mulheres deputadas ao Parlamento Europeu: 39,3%",
+  "textNote": "AA média mundial foi de 26,4%",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#map",
   "textCountryClick": "Clique para mais informações"

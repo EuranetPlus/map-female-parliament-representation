@@ -1,12 +1,12 @@
 {
-  "heading": "In-nisa huma rappreżentati tajjeb fil-parlamenti nazzjonali madwar il-pajjiżi tal-UE27?",
-  "subheading": "F'Lulju 2022, in-nisa kellhom 32.7% tas-siġġijiet kollha fil-parlamenti nazzjonali madwar l-UE. Sadanittant, il-medja dinjija kienet 26.4%.",
+  "heading": "In-nisa huma rappreżentati tajjeb fil-parlamenti nazzjonali tal-Unjoni Ewropea?",
+  "subheading": "F'Lulju 2022, in-nisa kellhom 32.7% tas-siġġijiet kollha fil-parlamenti nazzjonali madwar l-UE, filwaqt li 39.3% tal-MPE kienu nisa.",
   "legend1": "Ebda data disponibbli",
   "tooltip1": "tal-MPs",
   "textSourceDescription": "Sors",
   "textSource": "Unjoni Inter-Parlamentari",
   "textNoteDescription": "Nota",
-  "textNote": "Sehem attwali tal-MPE nisa 39.3%",
+  "textNote": "AIl-medja dinjija kienet 26.4%",
   "textDataAccess": "Aċċessa għad-data",
   "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#map",
   "textCountryClick": "Ikklikkja għal aktar informazzjoni"

@@ -1,12 +1,12 @@
 {
-  "heading": "Ovatko naiset hyvin edustettuina EU27-maiden kansallisissa parlamenteissa?",
-  "subheading": "Heinäkuussa 2022 naisilla oli 32,7 prosenttia kaikista paikoista kansallisissa parlamenteissa kaikkialla EU:ssa. Samaan aikaan maailman keskiarvo oli 26,4 prosenttia.",
+  "heading": "Ovatko naiset hyvin edustettuina Euroopan unionin kansallisissa parlamenteissa?",
+  "subheading": "Heinäkuussa 2022 naisilla oli 32,7 prosenttia kaikista paikoista kansallisissa parlamenteissa kaikkialla EU:ssa, kun taas Euroopan parlamentin jäsenistä 39,3 prosenttia oli naisia.",
   "legend1": "Tietoja ei ole saatavilla",
   "tooltip1": "kansanedustajista",
   "textSourceDescription": "Lähde",
   "textSource": "Parlamenttienvälinen unioni",
   "textNoteDescription": "Huomautus",
-  "textNote": "Todellinen osuus naispuolisista Euroopan parlamentin jäsenistä 39,3 %",
+  "textNote": "AMaailman keskiarvo oli 26,4 %",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#map",
   "textCountryClick": "Napsauta saadaksesi lisätietoja"
