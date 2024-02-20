@@ -1,12 +1,12 @@
 {
-  "heading": "Are women well represented in the national parliaments across Europe?",
-  "subheading": "In July 2022, women held 32.7% of all seats in national parliaments across the EU. Meanwhile, the world average was 26.4%.",
+  "heading": "Are women well represented in the national parliaments of the European Union?",
+  "subheading": "In July 2022, women held 32.7% of all seats in national parliaments across the EU, while 39.3% of MEPs were women",
   "legend1": "No data available",
   "tooltip1": "of MPs",
   "textSourceDescription": "Source",
   "textSource": "Inter-Parliamentary Union",
   "textNoteDescription": "Note",
-  "textNote": "Actual share of female MEPs 39.3%",
+  "textNote": "AThe world average was 26.4%",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#map",
   "textCountryClick": "Click for more info"
