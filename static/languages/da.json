@@ -1,13 +1,13 @@
 {
-  "heading": "Er kvinder godt repræsenteret i de nationale parlamenter i Den Europæiske Union?",
-  "subheading": "I juli 2022 havde kvinder 32,7 % af alle pladser i nationale parlamenter i hele EU, mens 39,3 % af MEP'erne var kvinder",
-  "legend1": "Ingen tilgængelig data",
+  "heading": "Er kvinder godt repræsenteret i Den Europæiske Unions nationale parlamenter?",
+  "subheading": "I juli 2022 havde kvinder 32,7 % af alle pladser i nationale parlamenter i EU, mens 39,3 % af MEP'erne var kvinder.",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": "af parlamentsmedlemmer",
   "textSourceDescription": "Kilde",
   "textSource": "Interparlamentarisk Union",
-  "textNoteDescription": "Bemærk",
-  "textNote": "A Verdensgennemsnittet var 26,4 %",
-  "textDataAccess": "Få adgang til data",
+  "textNoteDescription": "Note",
+  "textNote": "Verdensgennemsnittet var 26,4 %",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#map",
-  "textCountryClick": "Klik for mere info"
+  "textCountryClick": "Klik for mere information"
 }

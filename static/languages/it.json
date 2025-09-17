@@ -1,13 +1,13 @@
 {
-  "heading": "Le donne sono ben rappresentate nei parlamenti nazionali dell’Unione europea?",
-  "subheading": "Nel luglio 2022, le donne detenevano il 32,7% di tutti i seggi nei parlamenti nazionali dell’UE, mentre il 39,3% dei deputati erano donne",
+  "heading": "Le donne sono ben rappresentate nei parlamenti nazionali dell'Unione Europea?",
+  "subheading": "Nel luglio 2022, le donne detenevano il 32,7% di tutti i seggi nei parlamenti nazionali dell'UE, mentre il 39,3% degli eurodeputati era costituito da donne.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "dei parlamentari",
   "textSourceDescription": "Fonte",
   "textSource": "Unione interparlamentare",
   "textNoteDescription": "Nota",
-  "textNote": "ALa media mondiale è stata del 26,4%",
+  "textNote": "La media mondiale era del 26,4%",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#map",
-  "textCountryClick": "Fare clic per maggiori informazioni"
+  "textCountryClick": "Clicca per maggiori informazioni"
 }

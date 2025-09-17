@@ -1,13 +1,13 @@
 {
-  "heading": "¿Están las mujeres bien representadas en los parlamentos nacionales de la Unión Europea?",
+  "heading": "¿Están bien representadas las mujeres en los parlamentos nacionales de la Unión Europea?",
   "subheading": "En julio de 2022, las mujeres ocupaban el 32,7% de todos los escaños en los parlamentos nacionales de la UE, mientras que el 39,3% de los eurodiputados eran mujeres.",
-  "legend1": "Datos no disponibles",
+  "legend1": "No hay datos disponibles",
   "tooltip1": "de diputados",
   "textSourceDescription": "Fuente",
   "textSource": "Unión Interparlamentaria",
   "textNoteDescription": "Nota",
-  "textNote": "El promedio mundial fue del 26,4%",
-  "textDataAccess": "Accede a los datos",
+  "textNote": "El promedio mundial fue del 26,4%.",
+  "textDataAccess": "Acceder a los datos",
   "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#map",
   "textCountryClick": "Haga clic para más información"
 }

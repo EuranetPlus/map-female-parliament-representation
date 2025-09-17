@@ -1,13 +1,13 @@
 {
   "heading": "Czy kobiety są dobrze reprezentowane w parlamentach krajowych Unii Europejskiej?",
-  "subheading": "W lipcu 2022 r. kobiety zajmowały 32,7% wszystkich mandatów w parlamentach narodowych w całej UE, a 39,3% posłów do Parlamentu Europejskiego stanowiły kobiety",
+  "subheading": "W lipcu 2022 r. kobiety zajmowały 32,7% wszystkich miejsc w parlamentach krajowych w całej UE, podczas gdy 39,3% posłów do Parlamentu Europejskiego stanowiły kobiety",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "parlamentarzystów",
+  "tooltip1": "posłów",
   "textSourceDescription": "Źródło",
   "textSource": "Unia Międzyparlamentarna",
   "textNoteDescription": "Notatka",
   "textNote": "Średnia światowa wyniosła 26,4%",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#map",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

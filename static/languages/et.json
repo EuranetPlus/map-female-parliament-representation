@@ -1,12 +1,12 @@
 {
-  "heading": "Kas naised on Euroopa Liidu parlamentides hästi esindatud?",
-  "subheading": "2022. aasta juulis kuulus naistele 32,7% kõikidest kohtadest ELi liikmesriikide parlamentides, samas kui 39,3% Euroopa Parlamendi liikmetest olid naised.",
-  "legend1": "Andmed puuduvad",
+  "heading": "Kas naised on Euroopa Liidu liikmesriikide parlamentides hästi esindatud?",
+  "subheading": "2022. aasta juulis oli naistel 32,7% kõigist kohtadest ELi riikide parlamentides, samas kui 39,3% Euroopa Parlamendi liikmetest olid naised.",
+  "legend1": "Andmed pole saadaval",
   "tooltip1": "parlamendiliikmetest",
   "textSourceDescription": "Allikas",
-  "textSource": "Parlamentidevaheline liit",
-  "textNoteDescription": "Märge",
-  "textNote": "Maailma keskmine oli 26,4%.",
+  "textSource": "Parlamentidevaheline Liit",
+  "textNoteDescription": "Märkus",
+  "textNote": "Maailma keskmine oli 26,4%",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#map",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

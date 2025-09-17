@@ -1,13 +1,13 @@
 {
-  "heading": "An bhfuil ionadaíocht mhaith ag mná i bparlaimintí náisiúnta an Aontais Eorpaigh?",
-  "subheading": "I mí Iúil 2022, bhí 32.7% de na suíocháin uile ag mná i bparlaimintí náisiúnta ar fud an AE, agus ba mhná iad 39.3% de na Feisirí.",
+  "heading": "An bhfuil mná ionadaithe go maith i bparlaimintí náisiúnta an Aontais Eorpaigh?",
+  "subheading": "I mí Iúil 2022, bhí 32.7% de na suíocháin uile i bparlaimintí náisiúnta ar fud an AE ag mná, agus ba mhná iad 39.3% de na Feisirí Eorpacha.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "de MPs",
+  "tooltip1": "de na Feisirí Parlaiminte",
   "textSourceDescription": "Foinse",
-  "textSource": "Aontas Idirpharlaiminteach",
+  "textSource": "Aontas Idir-Pharlaiminteach",
   "textNoteDescription": "Nóta",
-  "textNote": "A Ba é an meán domhanda ná 26.4%",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
+  "textNote": "Ba é 26.4% an meán domhanda",
+  "textDataAccess": "Rochtain ar na sonraí",
   "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#map",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

@@ -1,12 +1,12 @@
 {
   "heading": "Zijn vrouwen goed vertegenwoordigd in de nationale parlementen van de Europese Unie?",
-  "subheading": "In juli 2022 bezetten vrouwen 32,7% van alle zetels in de nationale parlementen in de EU, terwijl 39,3% van de EP-leden vrouw was",
+  "subheading": "In juli 2022 werd 32,7% van alle zetels in de nationale parlementen in de EU bezet door vrouwen, terwijl 39,3% van de Europarlementariërs vrouw was.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van parlementsleden",
   "textSourceDescription": "Bron",
   "textSource": "Interparlementaire Unie",
   "textNoteDescription": "Opmerking",
-  "textNote": "AHet wereldgemiddelde was 26,4%",
+  "textNote": "Het wereldgemiddelde was 26,4%",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#map",
   "textCountryClick": "Klik voor meer informatie"

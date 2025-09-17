@@ -1,13 +1,13 @@
 {
   "heading": "Sunt femeile bine reprezentate în parlamentele naționale ale Uniunii Europene?",
-  "subheading": "În iulie 2022, femeile dețineau 32,7% din toate locurile în parlamentele naționale din UE, în timp ce 39,3% dintre europarlamentarii erau femei.",
-  "legend1": "Nici o informatie disponibila",
-  "tooltip1": "a parlamentarilor",
+  "subheading": "În iulie 2022, femeile dețineau 32,7% din totalul locurilor din parlamentele naționale din UE, în timp ce 39,3% dintre deputații europeni erau femei.",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "de parlamentari",
   "textSourceDescription": "Sursă",
   "textSource": "Uniunea Interparlamentară",
-  "textNoteDescription": "Notă",
-  "textNote": "AMedia mondială a fost de 26,4%",
+  "textNoteDescription": "Nota",
+  "textNote": "Media mondială a fost de 26,4%",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#map",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

@@ -1,13 +1,13 @@
 {
   "heading": "Vai sievietes ir labi pārstāvētas Eiropas Savienības valstu parlamentos?",
-  "subheading": "2022. gada jūlijā sievietes ieņēma 32,7% no visām vietām nacionālajos parlamentos visā ES, savukārt 39,3% EP deputātu bija sievietes.",
-  "legend1": "Nav pieejami dati",
+  "subheading": "2022. gada jūlijā sievietes ieņēma 32,7 % no visām vietām valstu parlamentos visā ES, savukārt 39,3 % Eiropas Parlamenta deputātu bija sievietes.",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "deputātu",
   "textSourceDescription": "Avots",
-  "textSource": "Starpparlamentu savienība",
+  "textSource": "Starpparlamentārā savienība",
   "textNoteDescription": "Piezīme",
-  "textNote": "A vidējais rādītājs pasaulē bija 26,4%",
+  "textNote": "Pasaules vidējais rādītājs bija 26,4 %.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#map",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

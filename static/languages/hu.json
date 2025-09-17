@@ -1,13 +1,13 @@
 {
-  "heading": "Jól képviseltetik-e a nőket az Európai Unió nemzeti parlamentjeiben?",
-  "subheading": "2022 júliusában a nők 32,7%-át foglalták el a nemzeti parlamentekben az EU-ban, míg az európai parlamenti képviselők 39,3%-a volt nő.",
-  "legend1": "Nincs elérhető adat",
-  "tooltip1": "képviselők",
+  "heading": "Jól képviseltetik magukat a nők az Európai Unió nemzeti parlamentjeiben?",
+  "subheading": "2022 júliusában a nők az EU-szerte a nemzeti parlamentekben a mandátumok 32,7%-át, az európai parlamenti képviselők 39,3%-át pedig nők tették ki.",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltip1": "a képviselők",
   "textSourceDescription": "Forrás",
-  "textSource": "Interparlamentáris Unió",
-  "textNoteDescription": "jegyzet",
+  "textSource": "Parlamentközi Unió",
+  "textNoteDescription": "Jegyzet",
   "textNote": "A világátlag 26,4% volt",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#map",
-  "textCountryClick": "További információért kattintson"
+  "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#térkép",
+  "textCountryClick": "Kattintson a további információkért"
 }

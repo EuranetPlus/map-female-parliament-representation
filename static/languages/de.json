@@ -1,13 +1,13 @@
 {
   "heading": "Sind Frauen in den nationalen Parlamenten der Europäischen Union gut vertreten?",
-  "subheading": "Im Juli 2022 hatten Frauen 32,7 % aller Sitze in nationalen Parlamenten in der gesamten EU inne, während 39,3 % der Europaabgeordneten Frauen waren",
+  "subheading": "Im Juli 2022 hatten Frauen 32,7 % aller Sitze in den nationalen Parlamenten der EU inne, während 39,3 % der Abgeordneten Frauen waren.",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "der Abgeordneten",
+  "tooltip1": "von Abgeordneten",
   "textSourceDescription": "Quelle",
   "textSource": "Interparlamentarische Union",
   "textNoteDescription": "Notiz",
-  "textNote": "ADer Weltdurchschnitt lag bei 26,4 %",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textNote": "Der weltweite Durchschnitt lag bei 26,4 %",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&region=europe&structure=any__lower_chamber#map",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }
